@@ -1,0 +1,5 @@
+opencv-python
+torch
+ultralytics
+deep-sort-realtime
+matplotlib
